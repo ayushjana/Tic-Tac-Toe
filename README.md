@@ -31,5 +31,5 @@ google-chrome index.html
 
 👤 **Ayush Jana**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@ayushjana]()
+* GitHub: [@ayushjana](https://github.com/ayushjana)
