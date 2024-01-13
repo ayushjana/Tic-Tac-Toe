@@ -29,7 +29,7 @@ google-chrome index.html
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Ayush Jana**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
 * GitHub: [@arasgungore](https://github.com/arasgungore)
