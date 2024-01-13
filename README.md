@@ -31,5 +31,5 @@ google-chrome index.html
 
 👤 **Ayush Jana**
 
-* LinkedIn: [@ayushjana]()
+* LinkedIn: [@ayushjana](https://www.linkedin.com/in/ayush-jana-11a174278/)
 * GitHub: [@ayushjana](https://github.com/ayushjana)
